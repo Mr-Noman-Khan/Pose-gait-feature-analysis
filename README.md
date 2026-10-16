@@ -1,6 +1,6 @@
 # PoseGait: Interpretable Gait Feature Analysis
 
-PoseGait is a small computer-vision project that estimates lower-body pose from a walking video and converts the detected motion into readable gait features. It is designed as a transparent feature-extraction demo, not as a gait-recognition product or a medical assessment.
+PoseGait is a computer-vision project that estimates lower-body pose from a walking video and converts the detected motion into readable gait features. It is designed as a transparent feature-extraction demo, not as a gait-recognition product or a medical assessment.
 
 ## At a glance
 
