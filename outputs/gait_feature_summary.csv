@@ -1,0 +1,9 @@
+,value
+left_knee_angle_mean_deg,163.39131853987882
+left_knee_angle_variance,150.60395325922724
+right_knee_angle_mean_deg,162.955074564131
+right_knee_angle_variance,149.4196248469403
+hip_angle_mean_deg,69.3093319907243
+mean_step_interval_s,0.5763333333333334
+estimated_cadence_steps_per_min,104.10641989589358
+mean_left_ankle_vertical_displacement_per_frame,0.004255749622703845
